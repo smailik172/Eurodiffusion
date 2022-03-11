@@ -1,0 +1,17 @@
+E:\Repository\Eurodiffusion\bin\Debug\net5.0\Eurodiffusion.exe
+E:\Repository\Eurodiffusion\bin\Debug\net5.0\euro.in
+E:\Repository\Eurodiffusion\bin\Debug\net5.0\Eurodiffusion.deps.json
+E:\Repository\Eurodiffusion\bin\Debug\net5.0\Eurodiffusion.runtimeconfig.json
+E:\Repository\Eurodiffusion\bin\Debug\net5.0\Eurodiffusion.runtimeconfig.dev.json
+E:\Repository\Eurodiffusion\bin\Debug\net5.0\Eurodiffusion.dll
+E:\Repository\Eurodiffusion\bin\Debug\net5.0\ref\Eurodiffusion.dll
+E:\Repository\Eurodiffusion\bin\Debug\net5.0\Eurodiffusion.pdb
+E:\Repository\Eurodiffusion\obj\Debug\net5.0\Eurodiffusion.csproj.AssemblyReference.cache
+E:\Repository\Eurodiffusion\obj\Debug\net5.0\Eurodiffusion.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repository\Eurodiffusion\obj\Debug\net5.0\Eurodiffusion.AssemblyInfoInputs.cache
+E:\Repository\Eurodiffusion\obj\Debug\net5.0\Eurodiffusion.AssemblyInfo.cs
+E:\Repository\Eurodiffusion\obj\Debug\net5.0\Eurodiffusion.csproj.CoreCompileInputs.cache
+E:\Repository\Eurodiffusion\obj\Debug\net5.0\Eurodiffusion.dll
+E:\Repository\Eurodiffusion\obj\Debug\net5.0\ref\Eurodiffusion.dll
+E:\Repository\Eurodiffusion\obj\Debug\net5.0\Eurodiffusion.pdb
+E:\Repository\Eurodiffusion\obj\Debug\net5.0\Eurodiffusion.genruntimeconfig.cache
